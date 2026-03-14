@@ -1,100 +1,100 @@
 [
   {
-    "id": "leganes-centro",
-    "slug": "nutricionista-leganes-centro",
-    "name": "Leganés Centro",
-    "description": "Nutricionista en el centro de Leganés, cerca de la Plaza de España, el Ayuntamiento, el Teatro José Monleón y la Iglesia de San Salvador.",
+    "id": "fuenlabrada-centro",
+    "slug": "nutricionista-fuenlabrada-centro",
+    "name": "Fuenlabrada Centro",
+    "description": "Nutricionista en el centro de Fuenlabrada, a pocos pasos de la Plaza de la Constitución, el Ayuntamiento y la Iglesia de San Esteban Protomártir.",
     "landmarks": [
-      "Plaza de España",
-      "Ayuntamiento de Leganés",
-      "Teatro José Monleón",
-      "Iglesia de San Salvador"
+      "Plaza de la Constitución",
+      "Ayuntamiento de Fuenlabrada",
+      "Iglesia de San Esteban Protomártir",
+      "Teatro Tomás y Valiente"
     ],
-    "metaTitle": "Nutricionista en Leganés Centro — nutricionistaenleganes.com",
-    "metaDescription": "Nutricionista en Leganés Centro, junto al Ayuntamiento y Plaza de España. Consulta presencial y online. Reserva tu cita."
+    "metaTitle": "Nutricionista en Fuenlabrada Centro — nutricionista.io",
+    "metaDescription": "Nutricionista en Fuenlabrada Centro, junto al Ayuntamiento y Plaza de la Constitución. Consulta presencial y online. Reserva tu cita."
   },
   {
-    "id": "zarzaquemada",
-    "slug": "nutricionista-zarzaquemada-leganes",
-    "name": "Zarzaquemada",
-    "description": "Nutricionista en Zarzaquemada, uno de los barrios más poblados de Leganés con excelente acceso al Metro y cercanías.",
+    "id": "loranca",
+    "slug": "nutricionista-loranca-fuenlabrada",
+    "name": "Loranca",
+    "description": "Nutricionista en Loranca, barrio residencial de Fuenlabrada con acceso al Metro Ligero y amplias zonas verdes junto al Parque de la Paz.",
     "landmarks": [
-      "Estación de Cercanías Zarzaquemada",
-      "Centro Comercial Parquesur (cercano)",
-      "Polideportivo Europa",
-      "Parque de la Hispanidad"
+      "Metro Ligero Loranca",
+      "Parque de la Paz",
+      "Centro Comercial Loranca",
+      "Polideportivo Loranca"
     ],
-    "metaTitle": "Nutricionista en Zarzaquemada Leganés — nutricionistaenleganes.com",
-    "metaDescription": "Nutricionista en Zarzaquemada (Leganés), junto a Cercanías y Parquesur. Primera consulta 50€. Reserva cita."
+    "metaTitle": "Nutricionista en Loranca Fuenlabrada — nutricionista.io",
+    "metaDescription": "Nutricionista en Loranca (Fuenlabrada), junto al Metro Ligero y Parque de la Paz. Primera consulta 50€. Reserva cita."
   },
   {
-    "id": "la-fortuna",
-    "slug": "nutricionista-la-fortuna-leganes",
-    "name": "La Fortuna",
-    "description": "Nutricionista en La Fortuna, barrio con acceso directo al Metro Línea 11 y ambiente dinámico y multicultural.",
+    "id": "el-naranjo",
+    "slug": "nutricionista-el-naranjo-fuenlabrada",
+    "name": "El Naranjo",
+    "description": "Nutricionista en El Naranjo, uno de los barrios con más vida de Fuenlabrada, bien comunicado y con múltiples servicios a pie de calle.",
     "landmarks": [
-      "Metro La Fortuna (L11)",
-      "Centro Cultural La Fortuna",
-      "Parque de La Fortuna",
-      "CEIP La Fortuna"
+      "Parque del Naranjo",
+      "Centro de Salud El Naranjo",
+      "Colegios e institutos del barrio",
+      "Mercado municipal cercano"
     ],
-    "metaTitle": "Nutricionista en La Fortuna Leganés — nutricionistaenleganes.com",
-    "metaDescription": "Nutricionista en La Fortuna (Leganés), junto al Metro L11. Consulta presencial y online. Reserva tu cita."
+    "metaTitle": "Nutricionista en El Naranjo Fuenlabrada — nutricionista.io",
+    "metaDescription": "Nutricionista en El Naranjo (Fuenlabrada). Consulta presencial y online. Primera consulta 50€. Reserva tu cita."
   },
   {
-    "id": "san-nicasio",
-    "slug": "nutricionista-san-nicasio-leganes",
-    "name": "San Nicasio",
-    "description": "Nutricionista en San Nicasio, barrio emblemático de Leganés con zonas verdes, colegios y el conocido Parque de San Nicasio.",
+    "id": "la-serna",
+    "slug": "nutricionista-la-serna-fuenlabrada",
+    "name": "La Serna",
+    "description": "Nutricionista en La Serna, barrio residencial de Fuenlabrada próximo al Hospital Universitario y con excelente conexión por Cercanías.",
     "landmarks": [
-      "Parque de San Nicasio",
-      "Centro Cultural San Nicasio",
+      "Hospital Universitario de Fuenlabrada",
+      "Estación de Cercanías La Serna",
+      "Centro Comercial Plaza de la Estación",
+      "Parque de La Serna"
+    ],
+    "metaTitle": "Nutricionista en La Serna Fuenlabrada — nutricionista.io",
+    "metaDescription": "Nutricionista en La Serna (Fuenlabrada), cerca del Hospital y Cercanías. Consulta presencial y online. Reserva cita."
+  },
+  {
+    "id": "el-arroyo",
+    "slug": "nutricionista-el-arroyo-fuenlabrada",
+    "name": "El Arroyo",
+    "description": "Nutricionista en El Arroyo, zona tranquila y familiar de Fuenlabrada con parques, colegios y buen acceso a las principales vías del municipio.",
+    "landmarks": [
+      "Parque del Arroyo",
+      "Centro Cultural El Arroyo",
       "Instalaciones deportivas municipales",
-      "Colegios e institutos del barrio"
+      "Colegios del barrio"
     ],
-    "metaTitle": "Nutricionista en San Nicasio Leganés — nutricionistaenleganes.com",
-    "metaDescription": "Nutricionista en San Nicasio (Leganés). Consulta presencial y online. Primera consulta 50€. Reserva."
+    "metaTitle": "Nutricionista en El Arroyo Fuenlabrada — nutricionista.io",
+    "metaDescription": "Nutricionista en El Arroyo (Fuenlabrada). Consulta presencial y online. Primera consulta 50€. Reserva tu cita."
   },
   {
-    "id": "el-carrascal",
-    "slug": "nutricionista-el-carrascal-leganes",
-    "name": "El Carrascal",
-    "description": "Nutricionista en El Carrascal, zona residencial moderna de Leganés con viviendas nuevas, parques y acceso rápido a la M-45.",
+    "id": "vivero-hospital",
+    "slug": "nutricionista-vivero-hospital-fuenlabrada",
+    "name": "Vivero-Hospital",
+    "description": "Nutricionista en la zona Vivero-Hospital de Fuenlabrada, área bien conectada con Cercanías Renfe y próxima al Hospital Universitario.",
     "landmarks": [
-      "Zona residencial de nueva construcción",
-      "Parques y zonas ajardinadas",
-      "Acceso rápido a M-45 y M-406",
-      "Centros educativos del barrio"
+      "Hospital Universitario de Fuenlabrada",
+      "Estación de Cercanías Fuenlabrada",
+      "Parque del Vivero",
+      "Centro de Especialidades"
     ],
-    "metaTitle": "Nutricionista en El Carrascal Leganés — nutricionistaenleganes.com",
-    "metaDescription": "Nutricionista en El Carrascal (Leganés), zona residencial moderna. Consulta presencial y online. Reserva tu cita."
+    "metaTitle": "Nutricionista en Vivero-Hospital Fuenlabrada — nutricionista.io",
+    "metaDescription": "Nutricionista en Vivero-Hospital (Fuenlabrada), cerca del Hospital y Cercanías. Consulta presencial. Reserva cita."
   },
   {
-    "id": "arroyo-culebro",
-    "slug": "nutricionista-arroyo-culebro-leganes",
-    "name": "Arroyo Culebro",
-    "description": "Nutricionista en Arroyo Culebro, zona de Leganés cercana al parque lineal del Arroyo Culebro, ideal para familias y deportistas.",
+    "id": "la-avanzada",
+    "slug": "nutricionista-la-avanzada-fuenlabrada",
+    "name": "La Avanzada",
+    "description": "Nutricionista en La Avanzada, barrio dinámico de Fuenlabrada con buena conexión por autobús y zonas deportivas municipales.",
     "landmarks": [
-      "Parque Lineal del Arroyo Culebro",
-      "Polideportivo Municipal",
-      "Zonas verdes y senderos",
-      "Acceso a M-45"
+      "Polideportivo La Avanzada",
+      "Parque de La Avanzada",
+      "Centro de Salud La Avanzada",
+      "Líneas de autobús interurbano"
     ],
-    "metaTitle": "Nutricionista en Arroyo Culebro Leganés — nutricionistaenleganes.com",
-    "metaDescription": "Nutricionista en Arroyo Culebro (Leganés), cerca del parque lineal. Consulta presencial y online. Primera consulta 50€."
-  },
-  {
-    "id": "vereda-de-los-estudiantes",
-    "slug": "nutricionista-vereda-estudiantes-leganes",
-    "name": "Vereda de los Estudiantes",
-    "description": "Nutricionista en Vereda de los Estudiantes, zona universitaria de Leganés con el campus de la Universidad Carlos III.",
-    "landmarks": [
-      "Universidad Carlos III de Madrid",
-      "Estación de Cercanías Leganés Central",
-      "Zona de residencias universitarias",
-      "Parques y zonas deportivas"
-    ],
-    "metaTitle": "Nutricionista en Vereda de los Estudiantes Leganés — nutricionistaenleganes.com",
-    "metaDescription": "Nutricionista en Vereda de los Estudiantes (Leganés), junto a la UC3M. Consulta presencial. Reserva cita."
+    "metaTitle": "Nutricionista en La Avanzada Fuenlabrada — nutricionista.io",
+    "metaDescription": "Nutricionista en La Avanzada (Fuenlabrada). Consulta presencial y online. Primera consulta 50€. Reserva."
   }
 ]

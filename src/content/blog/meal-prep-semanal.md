@@ -1,113 +1,116 @@
 ---
-title: "Meal prep semanal: organiza tus comidas y mejora tu alimentación"
-description: "Aprende a organizar tu menú semanal con meal prep. Consejos prácticos de tu nutricionista para ahorrar tiempo y comer mejor."
-date: "2025-11-10"
-tags: ["Alimentación saludable", "Pérdida de peso"]
+title: "Meal prep: cómo preparar tus comidas semanales en 3 horas"
+description: "Guía práctica de meal prep semanal. Aprende a organizar, comprar y cocinar tus comidas de toda la semana de forma eficiente y saludable."
+date: "2025-03-28"
+tags: ["Alimentación saludable", "Pérdida de peso", "fuenlabrada"]
 ---
 
-Si alguna vez has llegado a casa después de un largo día de trabajo y has acabado cenando lo primero que encontraste en la nevera, sabes lo difícil que es mantener una alimentación saludable sin planificación. El **meal prep**, o preparación de comidas semanal, es la herramienta que puede cambiar por completo tu forma de comer sin que tengas que pasar horas en la cocina cada día.
+Tienes buenas intenciones con tu alimentación, pero el lunes a las 20:30, después de un día largo, la pregunta "¿Qué hay de cenar?" se responde con una pizza a domicilio o un plato de cereales. No es falta de voluntad. Es falta de sistema.
 
-En nuestra consulta de nutrición en Leganés, la organización del menú semanal es uno de los pilares que trabajamos con todos nuestros pacientes. Porque una buena alimentación no empieza en la cocina: **empieza en la planificación**.
+El meal prep (preparación anticipada de comidas) es ese sistema. No se trata de pasar todo el domingo encerrado en la cocina ni de comer tuppers tristes durante cinco días. Se trata de invertir unas pocas horas para que el resto de la semana fluya sin improvisar, sin desperdiciar y sin recurrir a opciones que no te convienen.
 
-## Qué es el meal prep y por qué funciona
+## Por qué funciona el meal prep
 
-El meal prep consiste en dedicar un momento concreto de la semana (normalmente unas 2-3 horas) a planificar, comprar y preparar total o parcialmente las comidas de los días siguientes. No se trata de cocinar todo el domingo y comer tuppers recalentados: se trata de **tener una estrategia**.
+La evidencia es clara: las personas que planifican sus comidas con antelación tienen una dieta de mayor calidad, consumen más frutas y verduras, y presentan menor riesgo de obesidad. La razón es simple: cuando la decisión está tomada de antemano, eliminas el factor impulsivo del hambre y el cansancio.
 
-### Beneficios reales del meal prep
+En nuestra consulta de Fuenlabrada, la planificación semanal es una herramienta que integramos desde el primer día con la mayoría de pacientes. Porque la mejor dieta del mundo es papel mojado si no sabes organizarla en tu vida real.
 
-- **Ahorras tiempo**: cocinar una vez en cantidad es mucho más eficiente que cocinar desde cero cada día
-- **Comes mejor**: cuando tienes la comida preparada, es más fácil resistir la tentación de pedir comida a domicilio o recurrir a ultraprocesados
-- **Controlas las cantidades**: si ya tienes las raciones preparadas, evitas comer de más por ansiedad o hambre excesiva
-- **Reduces el desperdicio alimentario**: compras solo lo que necesitas y aprovechas todo
-- **Ahorras dinero**: planificar te permite comprar con cabeza y aprovechar ofertas en productos de temporada
+## El método en cuatro pasos
 
-> Según un estudio publicado en el *International Journal of Behavioral Nutrition and Physical Activity*, las personas que planifican sus comidas tienen una dieta de mayor calidad y menor riesgo de obesidad.
+### Paso 1: Diseña tu semana antes de comprar
 
-## Paso a paso: cómo organizar tu meal prep
+Siéntate 15 minutos el viernes o el sábado con papel y boli (o tu aplicación favorita) y decide qué comerás cada día. No necesitas recetas elaboradas: piensa en combinaciones sencillas basadas en esta estructura:
 
-### 1. Planifica tu menú semanal
+- **Proteína:** pollo, pavo, salmón, atún, huevos, garbanzos, lentejas, tofu
+- **Carbohidrato complejo:** arroz integral, quinoa, pasta integral, boniato, patata
+- **Verduras:** mínimo la mitad de cada plato. Varía colores y tipos
+- **Grasa saludable:** aceite de oliva virgen extra, aguacate, frutos secos
 
-Antes de ir al supermercado necesitas saber **qué vas a comer**. Te recomendamos seguir esta estructura para cada comida principal:
+No repitas la misma combinación más de dos días seguidos. La variedad no solo es más nutritiva, sino que evita el aburrimiento que mata cualquier plan alimentario.
 
-- **Una fuente de proteína**: pollo, pavo, pescado, huevos, legumbres, tofu
-- **Una fuente de hidratos de carbono complejos**: arroz integral, quinoa, pasta integral, patata, boniato
-- **Abundantes verduras**: mínimo la mitad del plato
-- **Una fuente de grasa saludable**: aceite de oliva virgen extra, aguacate, frutos secos
+### Paso 2: Lista de la compra sin improvisación
 
-Si buscas un marco de referencia, la [dieta mediterránea](/blog/dieta-mediterranea-guia) es un excelente punto de partida para diseñar tu menú semanal.
+Con el menú definido, elabora la lista agrupada por zonas del supermercado o del mercado municipal:
 
-### 2. Haz una lista de la compra organizada
+1. **Frutería:** toda la fruta y verdura de la semana
+2. **Carnicería/pescadería:** proteínas animales
+3. **Legumbres y cereales:** puedes comprar en seco o en conserva (las conservas de legumbres son una opción perfectamente válida y muy práctica)
+4. **Lácteos y huevos**
+5. **Despensa:** aceite, especias, frutos secos, conservas
 
-Una vez tienes el menú, elabora una lista agrupada por secciones del supermercado:
+**Dos reglas que funcionan:** no vayas a comprar con hambre y no te salgas de la lista. Cada producto que no está en la lista es una tentación que has evitado.
 
-1. Frutas y verduras
-2. Proteínas (carnicería, pescadería, legumbres)
-3. Cereales integrales y pasta
-4. Lácteos
-5. Otros (especias, aceite, frutos secos)
+### Paso 3: Cocina por bloques (batch cooking)
 
-**Regla de oro**: no vayas al supermercado sin lista y nunca vayas con hambre. Comprarás lo que no necesitas.
+Elige un bloque de 2-3 horas (el domingo por la mañana funciona bien para la mayoría) y cocina los componentes base de la semana. La clave está en no cocinar platos terminados sino **ingredientes que puedas combinar**:
 
-### 3. Cocina por lotes (batch cooking)
+**Bloque 1: Cereales y legumbres (los que más tiempo tardan)**
+- Pon a cocer arroz integral o quinoa en una olla grande
+- Simultáneamente, cuece lentejas o garbanzos en otra olla (si usas conservas, este paso desaparece)
 
-Aquí está la magia del meal prep. Dedica 2-3 horas a preparar las bases de la semana:
+**Bloque 2: Verduras (mientras hierven los cereales)**
+- Asa una bandeja grande de verduras variadas al horno (calabacín, pimiento, cebolla, berenjena, boniato) a 200 grados durante 30-40 minutos
+- Lava y corta las verduras de ensalada (lechuga, tomate, pepino) y guárdalas en recipientes con papel absorbente
 
-- **Cocina cereales y legumbres en cantidad**: arroz, quinoa, lentejas y garbanzos se conservan perfectamente 4-5 días en la nevera
-- **Asa verduras variadas**: una bandeja grande de verduras al horno (calabacín, pimiento, cebolla, berenjena) sirve para múltiples comidas
-- **Prepara proteínas**: cocina el pollo, hornea el salmón o cuece los huevos para tenerlos listos
-- **Lava y corta las ensaladas**: guárdalas en recipientes con papel absorbente para que se mantengan frescas
-- **Prepara salsas y aliños**: un buen sofrito de tomate casero o un aliño de tahini pueden transformar cualquier plato
+**Bloque 3: Proteínas**
+- Hornea pechugas de pollo o muslos con especias
+- Cuece huevos duros (7-8 huevos para la semana)
+- Prepara la proteína que vayas a congelar (albóndigas, hamburguesas caseras, salmón porcionado)
 
-### 4. Almacena correctamente
+**Bloque 4: Extras que marcan la diferencia**
+- Un sofrito de tomate casero (tomate triturado + cebolla + ajo + aceite de oliva)
+- Un aliño especial (tahini + limón + agua, o yogur + hierbas frescas)
+- Hummus casero si has cocido garbanzos
 
-La conservación es clave para que tu meal prep funcione:
+### Paso 4: Almacena con criterio
 
-- **Recipientes herméticos de cristal**: son los más higiénicos y no absorben olores ni sabores
-- **Etiqueta con la fecha**: así sabes siempre qué debes consumir primero
-- **Nevera**: las preparaciones se conservan bien 3-5 días dependiendo del alimento
-- **Congelador**: las legumbres, cremas de verduras, guisos y cereales cocidos se congelan muy bien. Prepara raciones individuales para mayor comodidad
-- **No mezcles todo**: almacena los componentes por separado y monta el plato en el momento. Así evitas que las texturas se estropeen
+- Usa recipientes de cristal con tapa hermética. Son más higiénicos que el plástico, no absorben olores y puedes meter muchos en el microondas directamente.
+- Guarda los componentes por separado. El arroz en un recipiente, las verduras en otro, la proteína aparte. Así montas platos diferentes cada día sin que todo sepa igual.
+- Lo que vayas a consumir en los próximos 3-4 días va a la nevera. El resto, al congelador en porciones individuales.
+- Etiqueta con la fecha si eres de los que olvidan cuándo cocinó cada cosa.
 
-## Ideas de comidas fáciles para tu meal prep
+## Cinco combinaciones para inspirarte
 
-Aquí tienes algunas combinaciones que funcionan muy bien:
+Con los ingredientes base preparados, montar el plato lleva menos de 5 minutos:
 
-- **Bowl mediterráneo**: arroz integral + garbanzos + verduras asadas + aceite de oliva y especias
-- **Ensalada completa**: quinoa + pollo desmenuzado + pepino + tomate cherry + aguacate + aliño de limón
-- **Crema de verduras + proteína**: crema de calabaza o brócoli + un huevo cocido o salmón al horno
-- **Wok de verduras con proteína**: salteado de verduras con pollo o tofu + fideos integrales de arroz
-- **Legumbres guisadas**: lentejas con verduras, garbanzos con espinacas o alubias con calabaza
+1. **Bowl asiático:** arroz integral + pollo desmenuzado + edamame + zanahoria rallada + salsa de soja y sésamo
+2. **Ensalada templada:** quinoa + garbanzos + verduras asadas + rúcula + aceite de oliva y vinagre balsámico
+3. **Plato de cuchara express:** lentejas cocidas + sofrito de tomate + espinacas frescas (se marchitan solas con el calor) + un huevo cocido partido por la mitad
+4. **Wrap rápido:** tortilla integral + hummus + pollo + verduras asadas + canónigos
+5. **Crema de verduras:** tritura las verduras asadas con caldo vegetal, añade una cucharada de queso crema o tahini, y acompaña con un huevo cocido y tostada integral
 
-Como explicamos en nuestro artículo sobre [mitos de la pérdida de peso](/blog/mitos-perdida-peso), comer sano no tiene que ser complicado ni aburrido. Con las combinaciones adecuadas, puedes comer variado toda la semana.
+## Los snacks también se preparan
 
-## Errores comunes al hacer meal prep
+No planificar los tentempiés es uno de los errores más frecuentes. Si a las 11 de la mañana o a las 17:00 te entra hambre y no tienes nada preparado, acabarás en la máquina de vending.
 
-- **Preparar recetas demasiado elaboradas**: empieza por lo simple. Ya tendrás tiempo de complicarte
-- **No variar lo suficiente**: si comes lo mismo toda la semana, te aburrirás y abandonarás
-- **Olvidar los snacks**: prepara también opciones saludables para media mañana y merienda (fruta cortada, frutos secos en bolsitas, yogur natural)
-- **No adaptar las cantidades a tus necesidades**: lo que necesita un corredor no es lo mismo que lo que necesita alguien con un trabajo sedentario
+Opciones de snack que puedes dejar listos el domingo:
 
-## Cómo puede ayudarte nuestro equipo con tu planificación
+- Bolsitas de frutos secos porcionados (30 g cada una)
+- Fruta lavada y cortada en la nevera
+- Palitos de zanahoria y pepino con hummus en un tupper pequeño
+- Yogur natural con semillas en un bote
+- Tortitas de arroz con queso fresco
 
-El meal prep genérico funciona, pero el **meal prep personalizado** marca la diferencia. En nuestra consulta de [pérdida de peso](/perdida-de-peso) o a través de la consulta de [nutricionista online](/nutricionista-online), diseñamos menús semanales adaptados a:
+## Errores que conviene evitar
 
-- Tus objetivos concretos (perder grasa, ganar masa muscular, mejorar tu salud digestiva)
-- Tus intolerancias o alergias alimentarias
-- Tu presupuesto y tiempo disponible
-- Tus gustos reales, para que el plan sea sostenible
+**Cocinar platos demasiado elaborados.** El meal prep funciona con recetas sencillas. Las recetas de chef déjalas para el fin de semana cuando cocines por placer.
 
-**No se trata de darte una lista de recetas**, sino de enseñarte a organizarte para que comer bien se convierta en algo automático.
+**Hacer siempre exactamente lo mismo.** Si cada semana es pollo-arroz-brócoli, te aburrirás la segunda semana. Varía proteínas, cereales, verduras y aliños.
 
-## Empieza esta semana
+**Ignorar tus necesidades calóricas.** Las raciones de un corredor que entrena cinco días no son las mismas que las de alguien con trabajo sedentario. Si tu objetivo es [pérdida de peso](/perdida-de-peso) o mejora de composición corporal, las cantidades importan.
 
-No necesitas hacerlo perfecto desde el primer día. Empieza dedicando una hora el domingo a preparar dos o tres bases (un cereal, una legumbre y unas verduras asadas) y verás cómo tu semana cambia por completo.
+**No adaptar a tu contexto.** Si odias cocinar, tu meal prep puede basarse en opciones que requieran mínima elaboración: conservas de calidad, vegetales de bolsa prelav ados, rotisserie de pollo. No tiene que ser perfecto; tiene que ser funcional.
 
-Si quieres un plan semanal diseñado a tu medida, con lista de la compra incluida y todas las recetas adaptadas a tus necesidades, estaremos encantados de ayudarte.
+## Un meal prep hecho a tu medida
+
+Las guías generales están bien para empezar, pero un meal prep diseñado específicamente para ti da resultados de otro nivel. En nuestra consulta de [nutrición](/) en Fuenlabrada, diseñamos menús semanales personalizados con lista de compra incluida, adaptados a tus objetivos, intolerancias, presupuesto y tiempo disponible.
+
+Si quieres un marco de alimentación de referencia, la [dieta mediterránea](/blog/dieta-mediterranea-guia) es un punto de partida excelente para diseñar tu semana de meal prep.
 
 ---
 
 ## Artículos relacionados
 
-- [Dieta mediterránea: guía completa para comer bien y cuidar tu salud](/blog/dieta-mediterranea-guia)
-- [Mitos sobre la pérdida de peso que debes dejar de creer](/blog/mitos-perdida-peso)
-- [¿Cuándo acudir a un nutricionista? 7 señales que no debes ignorar](/blog/cuando-acudir-nutricionista)
+- [Dieta mediterránea: la mejor base para comer bien](/blog/dieta-mediterranea-guia)
+- [10 mitos sobre perder peso que necesitas superar](/blog/mitos-perdida-peso)
+- [¿Cuándo acudir a un nutricionista?](/blog/cuando-acudir-nutricionista)

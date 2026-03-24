@@ -1,6 +1,6 @@
-# nutricionistaenleganes.com robots.txt
+# nutricionistafuenlabrada.com robots.txt
 
 User-agent: *
 Allow: /
 
-Sitemap: https://nutricionistaenleganes.com/sitemap.xml
+Sitemap: https://nutricionistafuenlabrada.com/sitemap.xml

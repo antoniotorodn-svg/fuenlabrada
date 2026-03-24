@@ -15,15 +15,15 @@ const {
   name,
   role,
   title,
-  location = "Leganés",
+  location = "Fuenlabrada",
   description = "",
   showVideo = false,
   benefits = []
 } = Astro.props;
 
 const isHomepage = !title && (name || role);
-const displayName = name || "Nutricionista en Leganés";
-const displayRole = role || "Soraya Sánchez & José Luis Todolí";
+const displayName = name || "Nutricionista en Fuenlabrada";
+const displayRole = role || "Adrián, Soraya y Cristina";
 ---
 
 <section class="hero">
@@ -31,8 +31,9 @@ const displayRole = role || "Soraya Sánchez & José Luis Todolí";
     <div class="hero__grid">
       <div class="hero__content">
         <div class="hero__avatar-wrap">
-          <img class="hero__avatar" src="/soraya-sanchez.webp" alt="Soraya Sánchez — Nutricionista en Leganés" width="56" height="56" fetchpriority="high" />
-          <img class="hero__avatar hero__avatar--second" src="/jose-luis-todoli.webp" alt="José Luis Todolí — Nutricionista en Leganés" width="56" height="56" fetchpriority="high" />
+          <img class="hero__avatar" src="https://nutricionista.io/wp-content/uploads/2025/06/Subtitulo-15.png" alt="Adrián — Nutricionista en Fuenlabrada" width="56" height="56" fetchpriority="high" />
+          <img class="hero__avatar hero__avatar--second" src="https://nutricionista.io/wp-content/uploads/2024/06/1.png" alt="Soraya — Nutricionista en Fuenlabrada" width="56" height="56" fetchpriority="high" />
+          <img class="hero__avatar hero__avatar--third" src="https://nutricionista.io/wp-content/uploads/2024/06/8.png" alt="Cristina — Nutricionista en Fuenlabrada" width="56" height="56" fetchpriority="high" />
         </div>
 
         <p class="hero__location">{location}</p>
@@ -119,6 +120,10 @@ const displayRole = role || "Soraya Sánchez & José Luis Todolí";
   }
 
   .hero__avatar--second {
+    margin-left: -14px;
+  }
+
+  .hero__avatar--third {
     margin-left: -14px;
   }
 

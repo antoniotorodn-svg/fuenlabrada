@@ -1,15 +1,17 @@
 ---
 interface Props {
-  type: 'soraya' | 'jose' | 'soraya-parejas' | 'jose-parejas';
+  type: 'adrian' | 'soraya' | 'cristina' | 'adrian-parejas' | 'soraya-parejas' | 'cristina-parejas';
 }
 
 const { type } = Astro.props;
 
 const urls: Record<string, string> = {
-  'soraya': 'https://calendly.com/leganes/primera-consulta?hide_event_type_details=1&hide_gdpr_banner=1',
-  'jose': 'https://calendly.com/joseluistodoli/primera-consulta?hide_event_type_details=1&hide_gdpr_banner=1',
-  'soraya-parejas': 'https://calendly.com/leganes/primera-consulta-leganes-clon?hide_event_type_details=1&hide_gdpr_banner=1',
-  'jose-parejas': 'https://calendly.com/joseluistodoli/primera-consulta-pareja?hide_event_type_details=1&hide_gdpr_banner=1',
+  'adrian': 'https://calendly.com/fuenlabrada-adrian/primera-consulta?hide_event_type_details=1&hide_gdpr_banner=1',
+  'soraya': 'https://calendly.com/fuenlabrada-soraya/primera-consulta?hide_event_type_details=1&hide_gdpr_banner=1',
+  'cristina': 'https://calendly.com/fuenlabrada-cristina/primera-consulta?hide_event_type_details=1&hide_gdpr_banner=1',
+  'adrian-parejas': 'https://calendly.com/fuenlabrada-adrian/primera-consulta-pareja?hide_event_type_details=1&hide_gdpr_banner=1',
+  'soraya-parejas': 'https://calendly.com/fuenlabrada-soraya/primera-consulta-pareja?hide_event_type_details=1&hide_gdpr_banner=1',
+  'cristina-parejas': 'https://calendly.com/fuenlabrada-cristina/primera-consulta-pareja?hide_event_type_details=1&hide_gdpr_banner=1',
 };
 
 const calendlyUrl = urls[type];

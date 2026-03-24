@@ -33,7 +33,7 @@ const faqItems = [
   },
   {
     question: "¿Cuánto cuesta el nutricionista en Fuenlabrada?",
-    answer: "Primera consulta: 55€ (incluye entrevista + plan + material formativo). Revisiones: 50€. Pack de 4 sesiones (primera + 3 revisiones): 145€ — ahorras 60€ respecto a contratarlas por separado. Aceptamos pago en efectivo y tarjeta."
+    answer: "Primera consulta: 55€ (incluye entrevista + plan + material formativo). Revisiones: 40€. Pack de 4 sesiones (primera + 3 revisiones): 145€ — ahorras 30€ respecto a contratarlas por separado. Aceptamos pago en efectivo y tarjeta."
   },
   {
     question: "¿Tendré que comprar suplementos o productos especiales?",
@@ -161,7 +161,7 @@ const localBusinessSchema = {
       "closes": "21:00"
     }
   ],
-  "priceRange": "55€ - 145€",
+  "priceRange": "40€ - 145€",
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5.0",
@@ -245,26 +245,26 @@ const localBusinessSchema = {
           <div class="price-basic-header">Primera consulta</div>
           <div class="price-basic-amount">55<span>€</span></div>
           <ul class="price-basic-list">
-            <li>✓ Entrevista inicial completa</li>
+            <li>✓ Entrevista inicial</li>
             <li>✓ Plan nutricional personalizado</li>
-            <li>✓ Material de apoyo incluido</li>
+            <li>✓ Material de apoyo</li>
           </ul>
-          <div class="price-basic-revision">Revisiones sueltas: 50€/sesión</div>
+          <div class="price-basic-revision">Revisiones sueltas: 40€/sesión</div>
           <a href="#reservar" class="price-basic-btn">PEDIR CITA</a>
         </div>
 
         <!-- Pack destacado -->
         <div class="price-pack">
-          <div class="pack-badge-top">⭐ MÁS ELEGIDO — AHORRA 60€</div>
+          <div class="pack-badge-top">⭐ MÁS ELEGIDO — AHORRA 30€</div>
           <div class="pack-header">
             <h3>Pack: Primera + 3 Revisiones</h3>
             <p>Ahorra contratando tu bono</p>
           </div>
           <div class="pack-price-row">
-            <div class="pack-old-price">205€</div>
+            <div class="pack-old-price">175€</div>
             <div class="pack-new-price">145<span>€</span></div>
           </div>
-          <div class="pack-savings">Ahorro de 60€ respecto a contratar por separado</div>
+          <div class="pack-savings">Ahorro de 30€ respecto a contratar por separado</div>
           <ul class="pack-features">
             <li>Incluye 4 sesiones completas</li>
             <li>Plan nutricional + ajustes continuos</li>
@@ -273,13 +273,14 @@ const localBusinessSchema = {
             <li>Mayor compromiso, mejores resultados</li>
           </ul>
           <a href="#reservar" class="pack-btn">PEDIR CITA</a>
+          <div class="pack-social-proof">🔥 <strong>62 personas</strong> han elegido este pack en marzo</div>
         </div>
       </div>
 
       <!-- Nota parejas -->
       <div class="parejas-note">
-        <p class="parejas-title">💑 <strong>Nota:</strong> En caso de parejas se aplica un <strong>descuento del 30% en las revisiones</strong></p>
-        <p class="parejas-detail">Primera consulta pareja: 110€ · Revisión pareja: 55€ (30% dto) · Bono 4 consultas parejas: 230€ (Ahorro 45€)</p>
+        <p class="parejas-title">💑 <strong>Nota:</strong> En caso de parejas se haría un <strong>descuento del 30% en las revisiones</strong></p>
+        <p class="parejas-detail">Primera consulta pareja: 100€ | Revisión pareja: 55€ (30% dto) | Bono 4 consultas parejas: 220€ (Ahorro 45€)</p>
         <a href="#reservar" class="parejas-btn">Reservar cita para 2 personas</a>
       </div>
     </div>
@@ -542,7 +543,7 @@ const localBusinessSchema = {
         <h2>Nutricionista en Fuenlabrada: todo lo que necesitas saber</h2>
         <p>Encontrar un buen <strong>nutricionista en Fuenlabrada</strong> puede marcar la diferencia entre seguir una dieta más o hacer un cambio real en tu alimentación. En nuestra consulta te ofrecemos un servicio de <strong>nutrición personalizada</strong> con profesionales colegiados que llevan años trabajando en el sur de Madrid.</p>
         <p>Ya sea que busques un <strong>dietista en Fuenlabrada</strong> para perder peso, mejorar tu rendimiento deportivo, controlar una patología como la diabetes o el colesterol, o simplemente aprender a comer mejor, nuestro equipo puede ayudarte. Trabajamos con un método probado que combina planes nutricionales individualizados, material educativo y seguimiento continuo por WhatsApp.</p>
-        <p>La primera consulta tiene un precio de <strong>55€</strong> e incluye entrevista completa, plan nutricional personalizado y material de apoyo. Si prefieres un compromiso mayor, el <strong>pack de 4 sesiones por 145€</strong> (ahorro de 60€) es la opción más elegida por nuestros pacientes. Atendemos de lunes a viernes de 9:00 a 21:00, tanto de forma <strong>presencial en Fuenlabrada</strong> como <strong>online por videollamada</strong>.</p>
+        <p>La primera consulta tiene un precio de <strong>55€</strong> e incluye entrevista completa, plan nutricional personalizado y material de apoyo. Si prefieres un compromiso mayor, el <strong>pack de 4 sesiones por 145€</strong> (ahorro de 30€) es la opción más elegida por nuestros pacientes. Atendemos de lunes a viernes de 9:00 a 21:00, tanto de forma <strong>presencial en Fuenlabrada</strong> como <strong>online por videollamada</strong>.</p>
       </div>
     </div>
   </section>
@@ -809,6 +810,13 @@ const localBusinessSchema = {
   }
 
   .pack-btn:hover { background: #B8891E; text-decoration: none; color: var(--white); }
+
+  .pack-social-proof {
+    text-align: center;
+    padding: 12px 26px 0;
+    font-size: 0.82em;
+    color: var(--text-light);
+  }
 
   /* Parejas */
   .parejas-note {

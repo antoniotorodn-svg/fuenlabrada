@@ -17,24 +17,40 @@ import CalendlyEmbed from './CalendlyEmbed.astro';
     </div>
 
     <div class="calendly-tabs" id="calendlyTabs">
-      <button class="calendly-tab calendly-tab--active" data-tab="soraya">Soraya Sánchez</button>
-      <button class="calendly-tab" data-tab="jose">José Luis Todolí</button>
+      <button class="calendly-tab calendly-tab--active" data-tab="adrian">
+        <img src="https://nutricionista.io/wp-content/uploads/2025/06/Subtitulo-15.png" alt="Adrián" class="calendly-tab-avatar" width="32" height="32" />
+        Adrián
+      </button>
+      <button class="calendly-tab" data-tab="soraya">
+        <img src="https://nutricionista.io/wp-content/uploads/2024/06/1.png" alt="Soraya" class="calendly-tab-avatar" width="32" height="32" />
+        Soraya
+      </button>
+      <button class="calendly-tab" data-tab="cristina">
+        <img src="https://nutricionista.io/wp-content/uploads/2024/06/8.png" alt="Cristina" class="calendly-tab-avatar" width="32" height="32" />
+        Cristina
+      </button>
     </div>
 
     <div class="calendly-panels">
       <!-- Individual -->
-      <div class="calendly-panel calendly-panel--active" id="panel-soraya">
+      <div class="calendly-panel calendly-panel--active" id="panel-adrian">
+        <CalendlyEmbed type="adrian" />
+      </div>
+      <div class="calendly-panel" id="panel-soraya">
         <CalendlyEmbed type="soraya" />
       </div>
-      <div class="calendly-panel" id="panel-jose">
-        <CalendlyEmbed type="jose" />
+      <div class="calendly-panel" id="panel-cristina">
+        <CalendlyEmbed type="cristina" />
       </div>
       <!-- Parejas -->
+      <div class="calendly-panel" id="panel-adrian-parejas">
+        <CalendlyEmbed type="adrian-parejas" />
+      </div>
       <div class="calendly-panel" id="panel-soraya-parejas">
         <CalendlyEmbed type="soraya-parejas" />
       </div>
-      <div class="calendly-panel" id="panel-jose-parejas">
-        <CalendlyEmbed type="jose-parejas" />
+      <div class="calendly-panel" id="panel-cristina-parejas">
+        <CalendlyEmbed type="cristina-parejas" />
       </div>
     </div>
 
@@ -50,7 +66,7 @@ import CalendlyEmbed from './CalendlyEmbed.astro';
     const panels = document.querySelectorAll('.calendly-panel');
     const typeButtons = document.querySelectorAll('.calendly-type');
     let currentType = 'individual';
-    let currentTab = 'soraya';
+    let currentTab = 'adrian';
 
     function showPanel() {
       panels.forEach(p => p.classList.remove('calendly-panel--active'));
@@ -134,6 +150,17 @@ import CalendlyEmbed from './CalendlyEmbed.astro';
     background: transparent;
     cursor: pointer;
     transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .calendly-tab-avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center top;
   }
 
   .calendly-tab:hover {
